@@ -2,7 +2,7 @@
 
 **`Desenvolvedor aspirante a FullStack`**
 
-Me chamo Lucas Alexandre Gonçalves de Vasconcellos, tenho 19 anos e sou natural de Brasília. Concluí o ensino médio no colégio Marista de Aguas Claras. Atualmente, estou cursando Ciências da Computação na Universidade Católica de Brasília. Sou apaixonado por tecnologia e um entusiasta nato do descobrimento!.
+Me chamo Lucas Alexandre Gonçalves de Vasconcellos, tenho 19 anos e sou natural de Brasília. Concluí o ensino médio no colégio Marista de Aguas Claras. Atualmente, estou cursando Ciências da Computação na Universidade Católica de Brasília (3º semestre). Sou apaixonado por tecnologia e um entusiasta nato do aprendizado!.
 
 <p align="left">
     <a href="https://github.com/LucasAlexandreVasconcellos?tab=repositories&sort=stargazers">
